@@ -24,5 +24,6 @@ public class Main {
 		}
 		
 		System.out.println(sum[0][0]);
+		sc.close();
 	}
 }
